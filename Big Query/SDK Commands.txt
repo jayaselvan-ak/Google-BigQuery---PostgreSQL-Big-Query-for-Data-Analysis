@@ -1,0 +1,2 @@
+Load CSV FIle:
+bq load  --skip_leading_rows=1 DB_1.customer_table copy.csv
